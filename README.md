@@ -230,9 +230,24 @@ Planned improvements include:
 
 ---
 
+
 ## 📸 Screenshots
 
-Screenshots of the application will be added here.
+### 🏠 Home
+
+![MealLens Home](screenshots/home.png)
+
+### 🔐 Login
+
+![MealLens Login](screenshots/login.png)
+
+### 🔍 Food & Nutrition Analysis
+
+![MealLens Analysis](screenshots/analysis.png)
+
+### 📊 Dashboard
+
+![MealLens Dashboard](screenshots/dashboard.png)
 
 ---
 
